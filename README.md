@@ -22,4 +22,4 @@ Command to run the scripts:
       --evaluate_during_training
 
 # To run BERT, BERT Large and BERT with Extra Self Attention Layer
-# Run the python notebook as it is, BERT Base model has been uploaded in the repo, you only need to use that if you want to use the BERT Base Model. For Adding Extra Self Attention Layer, you can change the config file, and use the bert_config_extra.json for that, present in uncased_L-12_H-768_A-12/
+Run the python notebook as it is, BERT Base model has been uploaded in the repo, you only need to use that if you want to use the BERT Base Model. For Adding Extra Self Attention Layer, you can change the config file, and use the bert_config_extra.json for that, present in uncased_L-12_H-768_A-12/
